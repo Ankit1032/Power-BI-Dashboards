@@ -1,0 +1,9 @@
+Steps:
+Get Data-> 
+Web -> Basic ->
+Provide URL : https://apps.des.qld.gov.au/species/?op=getspecies&family=psittacidae -> 
+Extract it Anonymously ->
+Close and Apply
+
+
+MARS API - InSight: Mars Weather Service API
