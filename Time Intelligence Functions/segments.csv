@@ -1,0 +1,731 @@
+﻿Dates,Segment,Amount
+01-01-2021,Channel Partners,13
+02-01-2021,Channel Partners,98
+03-01-2021,Channel Partners,27
+04-01-2021,Enterprise,19
+05-01-2021,Enterprise,39
+06-01-2021,Channel Partners,77
+07-01-2021,MidMarket,85
+08-01-2021,Enterprise,90
+09-01-2021,Enterprise,47
+10-01-2021,MidMarket,27
+11-01-2021,Government,14
+12-01-2021,Government,81
+13-01-2021,Government,67
+14-01-2021,Channel Partners,31
+15-01-2021,Channel Partners,65
+16-01-2021,Government,71
+17-01-2021,Channel Partners,39
+18-01-2021,Enterprise,13
+19-01-2021,Channel Partners,58
+20-01-2021,Channel Partners,61
+21-01-2021,MidMarket,28
+22-01-2021,Enterprise,51
+23-01-2021,MidMarket,97
+24-01-2021,Government,67
+25-01-2021,Government,41
+26-01-2021,Channel Partners,80
+27-01-2021,MidMarket,56
+28-01-2021,MidMarket,77
+29-01-2021,Government,66
+30-01-2021,Government,97
+31-01-2021,Channel Partners,28
+01-02-2021,MidMarket,94
+02-02-2021,Channel Partners,100
+03-02-2021,Channel Partners,92
+04-02-2021,Government,16
+05-02-2021,MidMarket,33
+06-02-2021,Enterprise,30
+07-02-2021,Enterprise,40
+08-02-2021,Government,59
+09-02-2021,Government,38
+10-02-2021,Channel Partners,21
+11-02-2021,MidMarket,79
+12-02-2021,Enterprise,46
+13-02-2021,Government,86
+14-02-2021,Enterprise,28
+15-02-2021,MidMarket,49
+16-02-2021,Government,65
+17-02-2021,Government,65
+18-02-2021,Government,80
+19-02-2021,Government,57
+20-02-2021,Channel Partners,12
+21-02-2021,MidMarket,57
+22-02-2021,Channel Partners,73
+23-02-2021,MidMarket,18
+24-02-2021,Channel Partners,81
+25-02-2021,Government,49
+26-02-2021,Enterprise,77
+27-02-2021,Enterprise,32
+28-02-2021,Enterprise,45
+01-03-2021,Channel Partners,57
+02-03-2021,Enterprise,95
+03-03-2021,Enterprise,19
+04-03-2021,MidMarket,38
+05-03-2021,Channel Partners,66
+06-03-2021,Enterprise,39
+07-03-2021,Channel Partners,68
+08-03-2021,Channel Partners,72
+09-03-2021,Channel Partners,65
+10-03-2021,MidMarket,58
+11-03-2021,MidMarket,87
+12-03-2021,Channel Partners,55
+13-03-2021,Enterprise,13
+14-03-2021,Channel Partners,12
+15-03-2021,MidMarket,99
+16-03-2021,MidMarket,28
+17-03-2021,Enterprise,54
+18-03-2021,Enterprise,64
+19-03-2021,MidMarket,66
+20-03-2021,Channel Partners,85
+21-03-2021,Enterprise,79
+22-03-2021,MidMarket,34
+23-03-2021,MidMarket,14
+24-03-2021,Channel Partners,10
+25-03-2021,Channel Partners,14
+26-03-2021,MidMarket,79
+27-03-2021,Enterprise,26
+28-03-2021,MidMarket,85
+29-03-2021,Channel Partners,77
+30-03-2021,Channel Partners,39
+31-03-2021,Channel Partners,17
+01-04-2021,Channel Partners,39
+02-04-2021,Government,69
+03-04-2021,MidMarket,77
+04-04-2021,Government,87
+05-04-2021,MidMarket,15
+06-04-2021,Channel Partners,98
+07-04-2021,Channel Partners,15
+08-04-2021,Enterprise,50
+09-04-2021,Government,40
+10-04-2021,Channel Partners,38
+11-04-2021,Enterprise,12
+12-04-2021,Government,19
+13-04-2021,MidMarket,66
+14-04-2021,Enterprise,98
+15-04-2021,MidMarket,63
+16-04-2021,Channel Partners,27
+17-04-2021,Government,93
+18-04-2021,Government,46
+19-04-2021,Enterprise,11
+20-04-2021,Enterprise,90
+21-04-2021,MidMarket,34
+22-04-2021,Enterprise,23
+23-04-2021,Channel Partners,49
+24-04-2021,Government,23
+25-04-2021,Channel Partners,69
+26-04-2021,Channel Partners,95
+27-04-2021,Government,35
+28-04-2021,Government,78
+29-04-2021,Channel Partners,53
+30-04-2021,MidMarket,52
+01-05-2021,Enterprise,33
+02-05-2021,Enterprise,88
+03-05-2021,Enterprise,59
+04-05-2021,Enterprise,76
+05-05-2021,Channel Partners,48
+06-05-2021,MidMarket,61
+07-05-2021,Enterprise,81
+08-05-2021,Enterprise,71
+09-05-2021,MidMarket,68
+10-05-2021,Government,46
+11-05-2021,Government,92
+12-05-2021,Channel Partners,44
+13-05-2021,Government,11
+14-05-2021,Enterprise,15
+15-05-2021,Enterprise,68
+16-05-2021,Government,92
+17-05-2021,Government,12
+18-05-2021,Channel Partners,15
+19-05-2021,Enterprise,17
+20-05-2021,MidMarket,64
+21-05-2021,Channel Partners,38
+22-05-2021,Government,37
+23-05-2021,Channel Partners,12
+24-05-2021,Government,60
+25-05-2021,MidMarket,29
+26-05-2021,Channel Partners,91
+27-05-2021,Government,40
+28-05-2021,Government,62
+29-05-2021,Enterprise,57
+30-05-2021,Enterprise,82
+31-05-2021,MidMarket,53
+01-06-2021,Channel Partners,91
+02-06-2021,Channel Partners,45
+03-06-2021,MidMarket,38
+04-06-2021,MidMarket,17
+05-06-2021,Enterprise,38
+06-06-2021,Channel Partners,25
+07-06-2021,Government,28
+08-06-2021,Enterprise,60
+09-06-2021,Government,10
+10-06-2021,Enterprise,75
+11-06-2021,Channel Partners,81
+12-06-2021,MidMarket,75
+13-06-2021,Enterprise,50
+14-06-2021,Channel Partners,28
+15-06-2021,Channel Partners,50
+16-06-2021,MidMarket,99
+17-06-2021,MidMarket,51
+18-06-2021,MidMarket,30
+19-06-2021,Government,12
+20-06-2021,Government,54
+21-06-2021,MidMarket,19
+22-06-2021,MidMarket,84
+23-06-2021,Channel Partners,72
+24-06-2021,Government,60
+25-06-2021,MidMarket,57
+26-06-2021,Channel Partners,92
+27-06-2021,Channel Partners,94
+28-06-2021,MidMarket,55
+29-06-2021,Channel Partners,89
+30-06-2021,Enterprise,56
+01-07-2021,MidMarket,37
+02-07-2021,MidMarket,79
+03-07-2021,MidMarket,15
+04-07-2021,MidMarket,39
+05-07-2021,MidMarket,75
+06-07-2021,MidMarket,68
+07-07-2021,Enterprise,43
+08-07-2021,Channel Partners,83
+09-07-2021,Enterprise,13
+10-07-2021,Channel Partners,81
+11-07-2021,Enterprise,62
+12-07-2021,Channel Partners,82
+13-07-2021,Channel Partners,93
+14-07-2021,Channel Partners,20
+15-07-2021,Enterprise,42
+16-07-2021,Channel Partners,37
+17-07-2021,Enterprise,17
+18-07-2021,Government,57
+19-07-2021,Enterprise,94
+20-07-2021,Government,50
+21-07-2021,MidMarket,46
+22-07-2021,Channel Partners,34
+23-07-2021,Government,77
+24-07-2021,Channel Partners,34
+25-07-2021,MidMarket,43
+26-07-2021,Enterprise,14
+27-07-2021,Enterprise,58
+28-07-2021,Channel Partners,75
+29-07-2021,Channel Partners,42
+30-07-2021,Enterprise,35
+31-07-2021,Enterprise,92
+01-08-2021,MidMarket,63
+02-08-2021,Government,57
+03-08-2021,Channel Partners,81
+04-08-2021,Government,12
+05-08-2021,Channel Partners,85
+06-08-2021,Government,99
+07-08-2021,Enterprise,87
+08-08-2021,MidMarket,37
+09-08-2021,Government,74
+10-08-2021,Government,22
+11-08-2021,Enterprise,79
+12-08-2021,MidMarket,97
+13-08-2021,Enterprise,10
+14-08-2021,Channel Partners,26
+15-08-2021,MidMarket,35
+16-08-2021,Enterprise,99
+17-08-2021,MidMarket,75
+18-08-2021,Enterprise,90
+19-08-2021,Enterprise,43
+20-08-2021,Channel Partners,40
+21-08-2021,Channel Partners,59
+22-08-2021,Channel Partners,55
+23-08-2021,Enterprise,74
+24-08-2021,MidMarket,46
+25-08-2021,Channel Partners,63
+26-08-2021,Channel Partners,71
+27-08-2021,MidMarket,20
+28-08-2021,Channel Partners,63
+29-08-2021,Government,42
+30-08-2021,Channel Partners,63
+31-08-2021,Enterprise,52
+01-09-2021,MidMarket,24
+02-09-2021,Government,46
+03-09-2021,Channel Partners,96
+04-09-2021,MidMarket,11
+05-09-2021,Enterprise,96
+06-09-2021,Government,11
+07-09-2021,Government,29
+08-09-2021,Enterprise,11
+09-09-2021,Government,66
+10-09-2021,Enterprise,95
+11-09-2021,Government,18
+12-09-2021,Channel Partners,55
+13-09-2021,Enterprise,35
+14-09-2021,Enterprise,84
+15-09-2021,MidMarket,96
+16-09-2021,Channel Partners,51
+17-09-2021,Government,58
+18-09-2021,Enterprise,17
+19-09-2021,Channel Partners,59
+20-09-2021,Enterprise,57
+21-09-2021,Enterprise,93
+22-09-2021,Channel Partners,56
+23-09-2021,Channel Partners,45
+24-09-2021,MidMarket,78
+25-09-2021,MidMarket,24
+26-09-2021,Government,86
+27-09-2021,Enterprise,77
+28-09-2021,Enterprise,28
+29-09-2021,Channel Partners,88
+30-09-2021,Channel Partners,84
+01-10-2021,Channel Partners,24
+02-10-2021,Government,71
+03-10-2021,Enterprise,100
+04-10-2021,Channel Partners,42
+05-10-2021,Government,17
+06-10-2021,MidMarket,74
+07-10-2021,Government,42
+08-10-2021,MidMarket,45
+09-10-2021,Enterprise,61
+10-10-2021,Enterprise,13
+11-10-2021,Channel Partners,20
+12-10-2021,Enterprise,66
+13-10-2021,Government,66
+14-10-2021,Enterprise,98
+15-10-2021,Government,70
+16-10-2021,Channel Partners,85
+17-10-2021,MidMarket,22
+18-10-2021,Channel Partners,48
+19-10-2021,Government,86
+20-10-2021,Enterprise,88
+21-10-2021,MidMarket,94
+22-10-2021,Enterprise,49
+23-10-2021,MidMarket,74
+24-10-2021,Channel Partners,52
+25-10-2021,MidMarket,58
+26-10-2021,Enterprise,21
+27-10-2021,Government,15
+28-10-2021,Enterprise,48
+29-10-2021,MidMarket,30
+30-10-2021,MidMarket,90
+31-10-2021,Channel Partners,58
+01-11-2021,MidMarket,60
+02-11-2021,Enterprise,40
+03-11-2021,Government,10
+04-11-2021,Channel Partners,75
+05-11-2021,MidMarket,57
+06-11-2021,Channel Partners,26
+07-11-2021,Government,14
+08-11-2021,MidMarket,90
+09-11-2021,Government,30
+10-11-2021,Enterprise,28
+11-11-2021,Government,54
+12-11-2021,MidMarket,82
+13-11-2021,Channel Partners,33
+14-11-2021,Government,41
+15-11-2021,Enterprise,80
+16-11-2021,Enterprise,99
+17-11-2021,Channel Partners,19
+18-11-2021,MidMarket,22
+19-11-2021,Channel Partners,67
+20-11-2021,Channel Partners,73
+21-11-2021,Government,18
+22-11-2021,Channel Partners,28
+23-11-2021,Channel Partners,69
+24-11-2021,Government,72
+25-11-2021,Channel Partners,58
+26-11-2021,Enterprise,55
+27-11-2021,Channel Partners,48
+28-11-2021,Government,17
+29-11-2021,Government,28
+30-11-2021,Government,39
+01-12-2021,MidMarket,60
+02-12-2021,Channel Partners,45
+03-12-2021,MidMarket,12
+04-12-2021,Government,12
+05-12-2021,MidMarket,63
+06-12-2021,Enterprise,59
+07-12-2021,Enterprise,95
+08-12-2021,Enterprise,66
+09-12-2021,Channel Partners,62
+10-12-2021,Government,14
+11-12-2021,Government,67
+12-12-2021,Channel Partners,29
+13-12-2021,Channel Partners,88
+14-12-2021,Channel Partners,78
+15-12-2021,Government,61
+16-12-2021,Enterprise,14
+17-12-2021,Enterprise,38
+18-12-2021,Government,30
+19-12-2021,MidMarket,69
+20-12-2021,Channel Partners,65
+21-12-2021,Channel Partners,66
+22-12-2021,Government,64
+23-12-2021,Enterprise,77
+24-12-2021,MidMarket,66
+25-12-2021,MidMarket,63
+26-12-2021,Government,44
+27-12-2021,MidMarket,81
+28-12-2021,Channel Partners,30
+29-12-2021,Channel Partners,18
+30-12-2021,Enterprise,79
+31-12-2021,Enterprise,46
+01-01-2022,Channel Partners,23
+02-01-2022,MidMarket,34
+03-01-2022,Channel Partners,79
+04-01-2022,MidMarket,42
+05-01-2022,Enterprise,37
+06-01-2022,Channel Partners,43
+07-01-2022,Channel Partners,37
+08-01-2022,MidMarket,91
+09-01-2022,Government,70
+10-01-2022,Channel Partners,14
+11-01-2022,Enterprise,58
+12-01-2022,Channel Partners,13
+13-01-2022,Channel Partners,75
+14-01-2022,Channel Partners,36
+15-01-2022,Government,16
+16-01-2022,Enterprise,43
+17-01-2022,MidMarket,36
+18-01-2022,MidMarket,79
+19-01-2022,Government,76
+20-01-2022,Government,36
+21-01-2022,Channel Partners,98
+22-01-2022,Government,43
+23-01-2022,Channel Partners,88
+24-01-2022,MidMarket,76
+25-01-2022,Enterprise,25
+26-01-2022,Enterprise,37
+27-01-2022,Government,27
+28-01-2022,Government,83
+29-01-2022,Channel Partners,85
+30-01-2022,Government,14
+31-01-2022,Enterprise,50
+01-02-2022,Channel Partners,79
+02-02-2022,Government,61
+03-02-2022,Channel Partners,18
+04-02-2022,Enterprise,35
+05-02-2022,Channel Partners,52
+06-02-2022,Government,73
+07-02-2022,MidMarket,98
+08-02-2022,Channel Partners,26
+09-02-2022,Government,31
+10-02-2022,Government,54
+11-02-2022,Government,86
+12-02-2022,Government,20
+13-02-2022,MidMarket,79
+14-02-2022,MidMarket,97
+15-02-2022,Government,41
+16-02-2022,Channel Partners,65
+17-02-2022,Enterprise,35
+18-02-2022,Enterprise,55
+19-02-2022,Government,87
+20-02-2022,Enterprise,87
+21-02-2022,Enterprise,65
+22-02-2022,Channel Partners,46
+23-02-2022,Enterprise,37
+24-02-2022,Enterprise,21
+25-02-2022,Enterprise,30
+26-02-2022,Government,93
+27-02-2022,MidMarket,79
+28-02-2022,MidMarket,21
+01-03-2022,Government,81
+02-03-2022,Government,29
+03-03-2022,Enterprise,44
+04-03-2022,Government,21
+05-03-2022,Government,88
+06-03-2022,MidMarket,65
+07-03-2022,Government,12
+08-03-2022,Government,21
+09-03-2022,Channel Partners,36
+10-03-2022,Channel Partners,34
+11-03-2022,Government,85
+12-03-2022,Channel Partners,49
+13-03-2022,Channel Partners,93
+14-03-2022,Enterprise,99
+15-03-2022,Government,52
+16-03-2022,MidMarket,26
+17-03-2022,Channel Partners,25
+18-03-2022,Channel Partners,37
+19-03-2022,MidMarket,17
+20-03-2022,MidMarket,58
+21-03-2022,Channel Partners,32
+22-03-2022,MidMarket,36
+23-03-2022,Enterprise,46
+24-03-2022,Enterprise,14
+25-03-2022,Government,58
+26-03-2022,Channel Partners,22
+27-03-2022,MidMarket,88
+28-03-2022,MidMarket,55
+29-03-2022,Enterprise,69
+30-03-2022,MidMarket,32
+31-03-2022,Government,16
+01-04-2022,Enterprise,38
+02-04-2022,Government,92
+03-04-2022,Enterprise,18
+04-04-2022,Enterprise,50
+05-04-2022,Government,47
+06-04-2022,Enterprise,76
+07-04-2022,Government,40
+08-04-2022,Enterprise,41
+09-04-2022,Government,68
+10-04-2022,Enterprise,28
+11-04-2022,Enterprise,48
+12-04-2022,MidMarket,85
+13-04-2022,MidMarket,79
+14-04-2022,Enterprise,53
+15-04-2022,Government,31
+16-04-2022,Channel Partners,95
+17-04-2022,Enterprise,52
+18-04-2022,MidMarket,16
+19-04-2022,MidMarket,36
+20-04-2022,Government,17
+21-04-2022,Enterprise,40
+22-04-2022,Enterprise,100
+23-04-2022,Government,85
+24-04-2022,MidMarket,82
+25-04-2022,Channel Partners,39
+26-04-2022,Channel Partners,55
+27-04-2022,MidMarket,67
+28-04-2022,Government,28
+29-04-2022,Channel Partners,46
+30-04-2022,Channel Partners,11
+01-05-2022,MidMarket,16
+02-05-2022,Government,27
+03-05-2022,Government,98
+04-05-2022,Channel Partners,68
+05-05-2022,Channel Partners,68
+06-05-2022,Government,22
+07-05-2022,Enterprise,69
+08-05-2022,Enterprise,31
+09-05-2022,Government,82
+10-05-2022,Enterprise,61
+11-05-2022,Enterprise,85
+12-05-2022,Enterprise,70
+13-05-2022,MidMarket,58
+14-05-2022,Channel Partners,95
+15-05-2022,Channel Partners,20
+16-05-2022,Channel Partners,96
+17-05-2022,Channel Partners,30
+18-05-2022,Enterprise,54
+19-05-2022,Enterprise,42
+20-05-2022,MidMarket,41
+21-05-2022,MidMarket,99
+22-05-2022,MidMarket,24
+23-05-2022,Enterprise,71
+24-05-2022,Channel Partners,24
+25-05-2022,Channel Partners,43
+26-05-2022,Government,55
+27-05-2022,MidMarket,74
+28-05-2022,Government,21
+29-05-2022,MidMarket,20
+30-05-2022,MidMarket,53
+31-05-2022,MidMarket,85
+01-06-2022,Channel Partners,90
+02-06-2022,Channel Partners,82
+03-06-2022,Channel Partners,48
+04-06-2022,Channel Partners,33
+05-06-2022,Channel Partners,77
+06-06-2022,Enterprise,49
+07-06-2022,Government,58
+08-06-2022,MidMarket,81
+09-06-2022,Government,73
+10-06-2022,MidMarket,92
+11-06-2022,Enterprise,24
+12-06-2022,Government,23
+13-06-2022,Government,38
+14-06-2022,Channel Partners,62
+15-06-2022,Channel Partners,54
+16-06-2022,Government,97
+17-06-2022,MidMarket,84
+18-06-2022,MidMarket,91
+19-06-2022,Channel Partners,34
+20-06-2022,MidMarket,96
+21-06-2022,Channel Partners,95
+22-06-2022,MidMarket,42
+23-06-2022,Government,68
+24-06-2022,Enterprise,59
+25-06-2022,MidMarket,84
+26-06-2022,Enterprise,19
+27-06-2022,Government,100
+28-06-2022,Enterprise,75
+29-06-2022,MidMarket,17
+30-06-2022,MidMarket,66
+01-07-2022,Enterprise,34
+02-07-2022,Government,70
+03-07-2022,Channel Partners,64
+04-07-2022,Government,18
+05-07-2022,Enterprise,99
+06-07-2022,Government,59
+07-07-2022,MidMarket,37
+08-07-2022,Government,34
+09-07-2022,MidMarket,71
+10-07-2022,Enterprise,10
+11-07-2022,Channel Partners,31
+12-07-2022,Channel Partners,30
+13-07-2022,Channel Partners,60
+14-07-2022,Channel Partners,10
+15-07-2022,Enterprise,20
+16-07-2022,Government,94
+17-07-2022,Channel Partners,11
+18-07-2022,Government,66
+19-07-2022,Enterprise,84
+20-07-2022,MidMarket,33
+21-07-2022,Government,21
+22-07-2022,Channel Partners,36
+23-07-2022,Enterprise,74
+24-07-2022,Channel Partners,49
+25-07-2022,Enterprise,56
+26-07-2022,Enterprise,43
+27-07-2022,Channel Partners,37
+28-07-2022,MidMarket,91
+29-07-2022,Enterprise,73
+30-07-2022,Government,89
+31-07-2022,Government,73
+01-08-2022,Enterprise,78
+02-08-2022,Channel Partners,94
+03-08-2022,MidMarket,50
+04-08-2022,Channel Partners,35
+05-08-2022,MidMarket,18
+06-08-2022,MidMarket,63
+07-08-2022,Government,37
+08-08-2022,Enterprise,91
+09-08-2022,Channel Partners,86
+10-08-2022,MidMarket,13
+11-08-2022,Enterprise,23
+12-08-2022,Government,82
+13-08-2022,MidMarket,68
+14-08-2022,Enterprise,32
+15-08-2022,Government,42
+16-08-2022,Enterprise,26
+17-08-2022,Enterprise,76
+18-08-2022,Enterprise,52
+19-08-2022,MidMarket,94
+20-08-2022,Enterprise,25
+21-08-2022,Government,77
+22-08-2022,Government,74
+23-08-2022,Government,48
+24-08-2022,Channel Partners,48
+25-08-2022,MidMarket,43
+26-08-2022,Enterprise,76
+27-08-2022,Government,87
+28-08-2022,Enterprise,18
+29-08-2022,Enterprise,40
+30-08-2022,Enterprise,47
+31-08-2022,Channel Partners,23
+01-09-2022,Government,11
+02-09-2022,Channel Partners,46
+03-09-2022,Government,50
+04-09-2022,Channel Partners,65
+05-09-2022,Channel Partners,91
+06-09-2022,Enterprise,44
+07-09-2022,Government,91
+08-09-2022,Enterprise,16
+09-09-2022,MidMarket,76
+10-09-2022,Channel Partners,21
+11-09-2022,Channel Partners,13
+12-09-2022,MidMarket,39
+13-09-2022,MidMarket,81
+14-09-2022,Channel Partners,81
+15-09-2022,Enterprise,39
+16-09-2022,Enterprise,59
+17-09-2022,MidMarket,12
+18-09-2022,Enterprise,30
+19-09-2022,Enterprise,94
+20-09-2022,Enterprise,17
+21-09-2022,Enterprise,92
+22-09-2022,Channel Partners,87
+23-09-2022,Channel Partners,83
+24-09-2022,Enterprise,34
+25-09-2022,MidMarket,91
+26-09-2022,MidMarket,50
+27-09-2022,Channel Partners,63
+28-09-2022,MidMarket,88
+29-09-2022,Government,21
+30-09-2022,MidMarket,26
+01-10-2022,MidMarket,20
+02-10-2022,Channel Partners,69
+03-10-2022,MidMarket,19
+04-10-2022,Channel Partners,12
+05-10-2022,MidMarket,75
+06-10-2022,Enterprise,38
+07-10-2022,Enterprise,33
+08-10-2022,MidMarket,33
+09-10-2022,Enterprise,72
+10-10-2022,Government,50
+11-10-2022,MidMarket,47
+12-10-2022,Enterprise,100
+13-10-2022,Government,75
+14-10-2022,MidMarket,37
+15-10-2022,Enterprise,65
+16-10-2022,Channel Partners,51
+17-10-2022,Enterprise,80
+18-10-2022,Enterprise,55
+19-10-2022,Government,67
+20-10-2022,Enterprise,37
+21-10-2022,MidMarket,98
+22-10-2022,MidMarket,17
+23-10-2022,Enterprise,30
+24-10-2022,Channel Partners,16
+25-10-2022,Enterprise,45
+26-10-2022,Channel Partners,37
+27-10-2022,Enterprise,13
+28-10-2022,Enterprise,18
+29-10-2022,MidMarket,45
+30-10-2022,Government,48
+31-10-2022,Channel Partners,37
+01-11-2022,MidMarket,15
+02-11-2022,MidMarket,92
+03-11-2022,MidMarket,63
+04-11-2022,Government,55
+05-11-2022,MidMarket,77
+06-11-2022,MidMarket,64
+07-11-2022,MidMarket,53
+08-11-2022,MidMarket,16
+09-11-2022,Enterprise,27
+10-11-2022,Enterprise,78
+11-11-2022,MidMarket,24
+12-11-2022,Channel Partners,44
+13-11-2022,Government,72
+14-11-2022,MidMarket,88
+15-11-2022,Channel Partners,25
+16-11-2022,Enterprise,97
+17-11-2022,Enterprise,82
+18-11-2022,MidMarket,71
+19-11-2022,Channel Partners,51
+20-11-2022,Enterprise,24
+21-11-2022,MidMarket,18
+22-11-2022,MidMarket,49
+23-11-2022,Enterprise,37
+24-11-2022,Government,96
+25-11-2022,Channel Partners,16
+26-11-2022,Channel Partners,79
+27-11-2022,Enterprise,26
+28-11-2022,Government,54
+29-11-2022,Enterprise,22
+30-11-2022,MidMarket,93
+01-12-2022,MidMarket,78
+02-12-2022,Enterprise,16
+03-12-2022,Government,20
+04-12-2022,Channel Partners,41
+05-12-2022,Enterprise,59
+06-12-2022,Government,93
+07-12-2022,Channel Partners,35
+08-12-2022,Channel Partners,78
+09-12-2022,MidMarket,100
+10-12-2022,Channel Partners,60
+11-12-2022,Enterprise,16
+12-12-2022,Government,97
+13-12-2022,MidMarket,26
+14-12-2022,MidMarket,35
+15-12-2022,Enterprise,88
+16-12-2022,Channel Partners,98
+17-12-2022,Channel Partners,78
+18-12-2022,Government,17
+19-12-2022,Government,52
+20-12-2022,Channel Partners,74
+21-12-2022,Government,19
+22-12-2022,MidMarket,79
+23-12-2022,Government,11
+24-12-2022,Government,79
+25-12-2022,Channel Partners,15
+26-12-2022,Enterprise,10
+27-12-2022,Enterprise,24
+28-12-2022,Government,77
+29-12-2022,Government,81
+30-12-2022,Enterprise,92
+31-12-2022,MidMarket,45
